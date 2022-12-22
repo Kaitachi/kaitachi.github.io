@@ -3,10 +3,31 @@
 identifier = "home"
 name = "Home"
 url = "/"
+weight = 1
 
 [main.params]
 icon = "home"
 newtab = true
+
+
+[[main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 2
+
+[main.params]
+icon = "user"
+
+
+[[main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+weight = 3
+
+[main.params]
+icon = "toolbox"
 
 
 [[social]]
