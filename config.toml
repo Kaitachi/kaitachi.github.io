@@ -2,6 +2,7 @@ baseURL = "https://kaitachi.github.io/"
 languageCode = "en-us"
 title = "Kaitachi's Blog"
 theme = "hugo-theme-stack"
+copyright = "Radamés Vega-Alfaro"
 
 
 [params.style]
