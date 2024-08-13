@@ -1,0 +1,32 @@
+main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 1
+    params:
+      icon: home
+      newtab: true
+  - identifier: about
+    name: About
+    url: /about
+    weight: 2
+    params:
+      icon: user
+  - identifier: projects
+    name: Projects
+    url: /projects
+    weight: 3
+    params:
+      icon: tools
+  - identifier: ctf-writeups
+    name: CTF Writeups
+    url: /writeups
+    weight: 4
+    params:
+      icon: flag
+social:
+  - identifier: github
+    name: GitHub
+    url: https://github.com/Kaitachi
+    params:
+      icon: brand-github
