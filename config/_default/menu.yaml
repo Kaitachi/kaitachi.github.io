@@ -7,7 +7,7 @@ main:
       icon: home
       newtab: true
   - identifier: about
-    name: About
+    name: About Me
     url: /about
     weight: 2
     params:
